@@ -1,2 +1,12 @@
-# student-data-analysis
-Project 1: SQL Data Analysis. A sample for analyzing student data.
+# Student Data Analysis (SQL)
+
+This project demonstrates SQL skills including:
+- SELECT, JOIN, GROUP BY
+- Data filtering and aggregation
+- Performance insights
+
+## Sample Query
+```sql
+SELECT grade_level, AVG(score) as avg_score
+FROM students
+GROUP BY grade_level;
