@@ -1,4 +1,4 @@
-# Student Data Analysis (SQL)
+# Student Data Analysis 
 
 This project demonstrates SQL skills including:
 - SELECT, JOIN, GROUP BY
